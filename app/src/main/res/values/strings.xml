@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation View</string>
+    <string name="smartherd">Smartherd</string>
+    <string name="email">guellord@gmail.com</string>
+    <string name="drawer_close">Open</string>
+    <string name="drawer_open">Close</string>
+</resources>
