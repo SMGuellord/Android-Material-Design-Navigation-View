@@ -37,7 +37,7 @@
         app:headerLayout="@layout/header"
         app:itemIconTint="#8C000000"
         app:itemTextColor="#E6000000"
-        app:menu="@menu/menu_items_only">
+        app:menu="@menu/menu_items_with_hearder">
 
     </android.support.design.widget.NavigationView>
 
