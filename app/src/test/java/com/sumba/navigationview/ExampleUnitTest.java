@@ -1,4 +1,4 @@
-package com.example.smgue.navigationview;
+package com.sumba.navigationview;
 
 import org.junit.Test;
 

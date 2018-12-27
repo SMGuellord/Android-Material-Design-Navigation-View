@@ -1,4 +1,4 @@
-package com.example.smgue.navigationview;
+package com.sumba.navigationview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.smgue.navigationview", appContext.getPackageName());
+        assertEquals("com.sumba.navigationview", appContext.getPackageName());
     }
 }

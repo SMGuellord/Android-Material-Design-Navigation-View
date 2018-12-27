@@ -1,4 +1,4 @@
-package com.example.smgue.navigationview;
+package com.sumba.navigationview;
 
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
